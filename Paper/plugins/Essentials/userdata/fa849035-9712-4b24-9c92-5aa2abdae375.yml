@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.56.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1647363579118
+  login: 1647363352914
+money: '0'
+last-account-name: ImZude
+lastlocation:
+  world: ee5ee0a2-ce09-438d-8ddd-088167a8ed27
+  world-name: world
+  x: 652.6561453474958
+  y: 93.4607540220294
+  z: -1242.0880774802636
+  yaw: -31.16274070739746
+  pitch: 21.78733253479004
+logoutlocation:
+  world: ee5ee0a2-ce09-438d-8ddd-088167a8ed27
+  world-name: world
+  x: 617.0989514224786
+  y: 102.0276008361126
+  z: -2450.726470447903
+  yaw: -70.970458984375
+  pitch: 37.591434478759766
